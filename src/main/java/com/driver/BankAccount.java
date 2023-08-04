@@ -45,7 +45,7 @@ public class BankAccount {
             }
             return accountNumber.toString();
         }
-    }
+
 
     public void deposit(double amount) {
         //add amount to balance
